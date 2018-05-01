@@ -2,7 +2,7 @@ title: Заметки Web разработчика.
 description: > # this means to ignore newlines until "baseurl:"
   Сайт по web разрапотке с полезными ссылками и материалом.
 permalink: ':title/'
-baseurl: "Demo-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/Demo-jekyll" # the subpath of your site, e.g. /blog
 url: "https://proprofit.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
