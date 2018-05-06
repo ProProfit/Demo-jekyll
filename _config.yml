@@ -2,23 +2,21 @@ title: ProProfit # your site title
 author: Xranitel
 email: your-email@domain.com # email for form submission, you also have to change it in _js/scripts.js
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Немного о себе. Учусь на своих ошибках. Заметки. Примеры. Скрипты.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://proprofit.github.io/Demo-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PRo # replace with your_twitter_username or comment to remove link from footer
 github_username:  ProProfit # replace with your_github_username or comment to remove link from footer
 instagram_username: 2111 # replace with your_instagram_username or comment to remove link from footer
 social:
-  name: Your Name
+  name: Alex
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://twitter.com/#
+    - https://www.facebook.com/#
+    - https://www.linkedin.com/in/#
+    - https://plus.google.com/#
+    - https://github.com/#
+    - https://keybase.io/#
 
 disqus:
   shortname: w # to enable comments replace with your_disqus_shortname
